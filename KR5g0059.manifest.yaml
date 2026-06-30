@@ -1,0 +1,52 @@
+canonical_identifier: bkk:krp/KR5g0059/v1
+canonical_location: https://kanripo.org/bkk/KR5g0059/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 沖虛通妙侍宸王先生家話
+  identifiers:
+    alt_id:
+    - DZ1250
+  date: '2015-08-29 02:53:27.767272'
+  source:
+    repository: kanripo
+    path: KR5g0059
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  base_edition: HFL
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: HFL
+  label: 【正統道藏・涵芬樓版】
+- short: ZTDZ
+  label: 【正統道藏・三家本】
+- short: SJB
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0059_000.yaml, hash: 'sha256:f4a4cc0f86c51a25fbae749e6dc860cfe32d128d955bb26bec35cde9d195f98d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0059_000.markers.yaml, hash: 'sha256:847e18c5cf105620a38b6bf6f70be509a7b6c7d906ba78a6cd30fe215a8399e2'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0059_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 38
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:8b1a71e9b602cabceb028bb6f85d772819a375b1232a56d69187de10d16b21b8
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
