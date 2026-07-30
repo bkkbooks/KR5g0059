@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR5g0059/ZTDZ/v1/markers/0
 seq: 0
 markers:
-  front:
+  body:
   - {type: 'kr:newline', offset: 0, content: '
 
       ', id: KR5g0059_ZTDZ_000-bkkkrnewl1}
@@ -1338,27 +1338,26 @@ markers:
 
       ', id: KR5g0059_ZTDZ_000-bkkkrnewl314}
   - {type: line-break, offset: 4887, content: '', id: KR5g0059_SJB_000-320395a15}
-  body:
-  - {type: 'kr:newline', offset: 0, content: '
+  - {type: 'kr:newline', offset: 4898, content: '
 
       ', id: KR5g0059_ZTDZ_000-bkkkrnewl1}
-  - {type: line-break, offset: 0, content: '', id: KR5g0059_SJB_000-320395a16}
-  - {type: indent, offset: 0, content: 　　　, id: KR5g0059_ZTDZ_000-bkkind1}
-  - {type: 'kr:newline', offset: 2, content: '
+  - {type: line-break, offset: 4898, content: '', id: KR5g0059_SJB_000-320395a16}
+  - {type: indent, offset: 4898, content: 　　　, id: KR5g0059_ZTDZ_000-bkkind1}
+  - {type: 'kr:newline', offset: 4900, content: '
 
       ', id: KR5g0059_ZTDZ_000-bkkkrnewl2}
-  - {type: line-break, offset: 2, content: '', id: KR5g0059_SJB_000-320395a17}
-  - {type: 'kr:newline', offset: 19, content: '
+  - {type: line-break, offset: 4900, content: '', id: KR5g0059_SJB_000-320395a17}
+  - {type: 'kr:newline', offset: 4917, content: '
 
       ', id: KR5g0059_ZTDZ_000-bkkkrnewl3}
-  - {type: line-break, offset: 19, content: '', id: KR5g0059_SJB_000-320395a18}
-  - {type: paragraph-break, offset: 27, content: '
+  - {type: line-break, offset: 4917, content: '', id: KR5g0059_SJB_000-320395a18}
+  - {type: paragraph-break, offset: 4925, content: '
 
 
       ', id: KR5g0059_ZTDZ_000-bkkp1}
-  - {type: line-break, offset: 27, content: '', id: KR5g0059_SJB_000-320395a19}
-  - {type: 'kr:newline', offset: 38, content: '
+  - {type: line-break, offset: 4925, content: '', id: KR5g0059_SJB_000-320395a19}
+  - {type: 'kr:newline', offset: 4936, content: '
 
       ', id: KR5g0059_ZTDZ_000-bkkkrnewl4}
   back: []
-hash: sha256:0cc517c66704369a4e17e698c14c1bb3dfb219e476e5e67ce158b0dd78bf9137
+hash: sha256:ac0cc3e9c3f4ffc69c4c156b1081f896414d4f49d39bd98d39af81274d1e26f9
